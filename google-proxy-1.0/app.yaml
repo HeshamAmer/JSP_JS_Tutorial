@@ -1,4 +1,4 @@
-application: YOUR_APP_ID
+application: proxyserver-1323
 version: secureable
 runtime: python27
 api_version: 1
